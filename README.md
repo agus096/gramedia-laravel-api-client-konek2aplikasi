@@ -12,4 +12,4 @@ aplikasi/script ini bisa kamu kembangkan lagi menjadi lebih kompleks.
 
 # laravel api server
 untuk api servernya disini:
-https://github.com/agusbudiman69/laravel-api-server-konek2aplikasi
+https://github.com/agusbudiman69/gramedia-laravel-api-server-konek2aplikasi
