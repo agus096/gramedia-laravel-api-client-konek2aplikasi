@@ -11,4 +11,5 @@ Flow aplikasi ini sangat sederhana yaitu ketika gramedia pusat membuat list peng
 aplikasi/script ini bisa kamu kembangkan lagi menjadi lebih kompleks.
 
 # laravel api server
-untuk api servernya disini =>
+untuk api servernya disini:
+https://github.com/agusbudiman69/laravel-api-server-konek2aplikasi
